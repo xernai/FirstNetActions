@@ -1,0 +1,15 @@
+C:\Actions\FirstNetActions\bin\Debug\net10.0\FirstNetActions.exe
+C:\Actions\FirstNetActions\bin\Debug\net10.0\FirstNetActions.deps.json
+C:\Actions\FirstNetActions\bin\Debug\net10.0\FirstNetActions.runtimeconfig.json
+C:\Actions\FirstNetActions\bin\Debug\net10.0\FirstNetActions.dll
+C:\Actions\FirstNetActions\bin\Debug\net10.0\FirstNetActions.pdb
+C:\Actions\FirstNetActions\obj\Debug\net10.0\FirstNetActions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Actions\FirstNetActions\obj\Debug\net10.0\FirstNetActions.AssemblyInfoInputs.cache
+C:\Actions\FirstNetActions\obj\Debug\net10.0\FirstNetActions.AssemblyInfo.cs
+C:\Actions\FirstNetActions\obj\Debug\net10.0\FirstNetActions.csproj.CoreCompileInputs.cache
+C:\Actions\FirstNetActions\obj\Debug\net10.0\FirstNetActions.sourcelink.json
+C:\Actions\FirstNetActions\obj\Debug\net10.0\FirstNetActions.dll
+C:\Actions\FirstNetActions\obj\Debug\net10.0\refint\FirstNetActions.dll
+C:\Actions\FirstNetActions\obj\Debug\net10.0\FirstNetActions.pdb
+C:\Actions\FirstNetActions\obj\Debug\net10.0\FirstNetActions.genruntimeconfig.cache
+C:\Actions\FirstNetActions\obj\Debug\net10.0\ref\FirstNetActions.dll
